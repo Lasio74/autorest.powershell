@@ -3,12 +3,12 @@
 
 ## Using the released version of `autorest.powershell`
 
-See [Using AutoRest PowerShell ](docs/using-autorest-powershell) for examples, etc.
+See [Using AutoRest PowerShell ](docs/using-autorest-powershell.md) for examples, etc.
 
 
 # Contributing
 
-For instructions on cloning/building/etc, see [Development](docs/development)
+For instructions on cloning/building/etc, see [Development](docs/development.md)
 
 
 ## Contributor License Agreement Requirements
